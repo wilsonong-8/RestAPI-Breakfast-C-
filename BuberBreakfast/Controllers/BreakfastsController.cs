@@ -4,8 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace BuberBreakfast.Controllers;
 
 [ApiController]
-[Route("breakfasts")]
-public class BreakfastController : ControllerBase
+[Route("[controller]")]
+public class BreakfastsController : ControllerBase
 {
     [HttpPost()]
     public IActionResult CreateBreakfast(CreateBreakfastRequest request)
