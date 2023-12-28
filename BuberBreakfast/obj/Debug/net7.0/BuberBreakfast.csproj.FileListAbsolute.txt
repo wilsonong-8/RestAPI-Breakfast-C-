@@ -27,3 +27,4 @@
 /Users/wilsonong/Desktop/Vscode Scripts/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.pdb
 /Users/wilsonong/Desktop/Vscode Scripts/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/BuberBreakfast.genruntimeconfig.cache
 /Users/wilsonong/Desktop/Vscode Scripts/BuberBreakfast/BuberBreakfast/obj/Debug/net7.0/ref/BuberBreakfast.dll
+/Users/wilsonong/Desktop/Vscode Scripts/BuberBreakfast/BuberBreakfast/bin/Debug/net7.0/ErrorOr.dll
