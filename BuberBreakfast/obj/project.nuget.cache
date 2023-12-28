@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGGAQM55YO7tBafSLLPTdiT+Sj927xdzWeoZ0FiECzpufpVQUbwfIURnwmhWCmNW9dQLHENEVP63FYl3s759AQ==",
+  "dgSpecHash": "2FQOc8LLMF93ZB7cgBA9ZKQV0PQXoUgiUQ7J/nIhf9mgSwX0tLhsN+g9ypn9Fo9mEADzPgNHxrzgCvEB/uj20Q==",
   "success": true,
   "projectFilePath": "/Users/wilsonong/Desktop/Vscode Scripts/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
-  "expectedPackageFiles": [
-    "/Users/wilsonong/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
-    "/Users/wilsonong/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "/Users/wilsonong/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
-    "/Users/wilsonong/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "/Users/wilsonong/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "/Users/wilsonong/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/wilsonong/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
