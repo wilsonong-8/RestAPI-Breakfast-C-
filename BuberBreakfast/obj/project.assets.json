@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "BuberBreakfast.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BuberBreakfast.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberBreakfast.Contracts.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BuberBreakfast.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
+      "msbuildProject": "../BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "BuberBreakfast.Contracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/wilsonong/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/wilsonong/Desktop/Vscode Scripts/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {
+              "projectPath": "/Users/wilsonong/Desktop/Vscode Scripts/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
