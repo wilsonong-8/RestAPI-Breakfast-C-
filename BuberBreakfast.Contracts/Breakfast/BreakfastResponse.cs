@@ -9,3 +9,5 @@ namespace BuberBreakfast.Contracts.Breakfast;
     DateTime LastModifiedDateTime,
     List<string>Savory,
     List<string>Sweet);
+
+    
